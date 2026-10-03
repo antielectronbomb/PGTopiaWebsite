@@ -4,72 +4,86 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="P.G.Topia">
+
   <link rel="icon" type="image/jpg" href="assets/images/logo.jpg">
-  <title>P.G.Topia</title>
   <link rel="stylesheet" href="css/style.css">
+
+  <title>P.G.Topia</title>
 </head>
+
 <body>
+
   <div class="site-shell">
-    <header class="site-header">
-      <div class="masthead">
-        <div class="logo">
-          <a href="https://steamcommunity.com/groups/pgtopia">
-            <img src="assets/images/logo.jpg" alt="P.G.Topia">
-          </a>
 
-          <div class="logo-text">
-            <span class="logo-tf2">P.G.Topia</span>
-            <span class="logo-name">The Campfire</span>
-            <span class="logo-tagline">The Future ain't what it used to be</span>
-          </div>
-        </div>
-      </div>
-
-      <nav class="site-nav" aria-label="Primary navigation">
-        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">MENU</button>
-        <div class="nav-links" id="nav-links">
-          <a class="active">Home</a>
-          <a href="rules.html">Rules</a>
-          <!-- <a href="#mapcycle">Map List</a> -->
-          <!-- <a href="#reverts">Weapon Reverts List</a> -->
-          <a href="https://steamcommunity.com/groups/pgtopia">Steam Group</a>
-          <a href="https://www.youtube.com/@ConfederateChud">YouTube</a>
-        </div>
-      </nav>
-    </header>
+    <!-- Header is loaded by header.js -->
+    <header class="site-header"></header>
 
     <main id="home" class="content">
+
       <section class="intro" id="faq">
         <h1>Welcome to P.G.Topia!</h1>
+
         <h3>Gather Round The Campfire</h3>
+
         <p class="logo-center">
-          <a href="https://steamcommunity.com/groups/pgtopia">P.G.Topia Steam Group</a>
-        </p>        
-        <p></p>
-        <p>P.G.Topia is a TF2 and Minecraft community for people who appreciate how things used to be.
-Hang out, play games, and have fun.</p>
+          <a href="https://steamcommunity.com/groups/pgtopia">
+            P.G.Topia Steam Group
+          </a>
+        </p>
+
+        <p>
+          P.G.Topia is a TF2 and Minecraft community for people who appreciate
+          how things used to be. Hang out, play games, and have fun.
+        </p>
       </section>
 
       <div class="rule"></div>
 
       <section class="server-box">
         <h2>Join the Server</h2>
-        <p>Server: <code id="server-name">P.G.Topia | Chicago | Weapon Reverts</code></p>
-        <p>Host Name: <code id="server-hostname">p-g-topia.tf2.host</code></p>
-        <p>IP Address: <code id="server-ip">79.127.234.150:27015</code></p>
+
+        <p>
+          Server:
+          <code id="server-name">P.G.Topia | Chicago | Weapon Reverts</code>
+        </p>
+
+        <p>
+          Host Name:
+          <code id="server-hostname">p-g-topia.tf2.host</code>
+        </p>
+
+        <p>
+          IP Address:
+          <code id="server-ip">79.127.234.150:27015</code>
+        </p>
+
         <div class="server-actions">
-          <a href="steam://connect/79.127.234.150:27015">CONNECT TO SERVER</a>
+          <a href="steam://connect/79.127.234.150:27015">
+            CONNECT TO SERVER
+          </a>
         </div>
-        <iframe src="https://cache.gametracker.com/components/html0/?host=79.127.234.150:27015&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=1&currentPlayersHeight=100&showCurrPlayers=1&topPlayersHeight=100&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="536"></iframe>
+
+        <iframe
+          src="https://cache.gametracker.com/components/html0/?host=79.127.234.150:27015&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=1&currentPlayersHeight=100&showCurrPlayers=1&topPlayersHeight=100&showTopPlayers=1&showBlogs=0&width=240"
+          frameborder="0"
+          scrolling="no"
+          width="240"
+          height="536">
+        </iframe>
+
       </section>
+
     </main>
 
     <footer class="site-footer">
       <p>P.G.Topia · Team Fortress 2 Community Server</p>
       <p>© <span id="year"></span> P.G.Topia</p>
     </footer>
+
   </div>
 
+  <script src="js/header.js"></script>
   <script src="js/main.js"></script>
+
 </body>
 </html>
