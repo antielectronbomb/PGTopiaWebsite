@@ -28,8 +28,8 @@
       <nav class="site-nav" aria-label="Primary navigation">
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">MENU</button>
         <div class="nav-links" id="nav-links">
-          <a class="active">Home</a>
-          <a href="rules.html">Rules</a>
+          <a href="index.html">Home</a>
+          <a class="active">Rules</a>
           <!-- <a href="#mapcycle">Map List</a> -->
           <!-- <a href="#reverts">Weapon Reverts List</a> -->
           <a href="https://steamcommunity.com/groups/pgtopia">Steam Group</a>
@@ -38,32 +38,33 @@
       </nav>
     </header>
 
-    <main id="home" class="content">
-      <section class="intro" id="faq">
-        <h1>Welcome to P.G.Topia!</h1>
-        <h3>Gather Round The Campfire</h3>
-        <p class="logo-center">
-          <a href="https://steamcommunity.com/groups/pgtopia">P.G.Topia Steam Group</a>
-        </p>        
-        <p></p>
-        <p>P.G.Topia is a TF2 and Minecraft community for people who appreciate how things used to be.
-Hang out, play games, and have fun.</p>
+    <main id="rules" class="content">
+      <section class="intro">
+        <h1>RULES:</h1>
+        <ol>
+          <li>No cheating and hacking</li>
+          <li>No NSFW sprays/images, no exceptions</li>
+          <li>
+            Be cordial. Good faith back and forth between friends is funny.
+            Being hateful towards other members is not.
+          </li>
+          <li>
+            For other questions regarding server rules, ask the owner,
+            P.G.T Beauregard.
+          </li>
+        </ol>
+
+        <h1>COMMANDS:</h1>
+        <ul>
+          <li><code>!reverts</code> - See list of weapon reverts</li>
+          <li><code>!vm</code> - Adjust voice chat volume</li>
+          <li><code>!rules</code> - Review rules</li>
+          <li><code>!nominate</code> - Nominate a map</li>
+          <li><code>!scramble</code> - Vote to scramble teams</li>
+          <li><code>!rtv</code> - Vote to rock the vote (vote to switch maps)</li>
+          <li><code>!rtd</code> - Roll the dice</li>
+        </ul>
       </section>
-
-      <div class="rule"></div>
-
-      <section class="server-box">
-        <h2>Join the Server</h2>
-        <p>Server: <code id="server-name">P.G.Topia | Chicago | Weapon Reverts</code></p>
-        <p>Host Name: <code id="server-hostname">p-g-topia.tf2.host</code></p>
-        <p>IP Address: <code id="server-ip">79.127.234.150:27015</code></p>
-        <div class="server-actions">
-          <a href="steam://connect/79.127.234.150:27015">CONNECT TO SERVER</a>
-        </div>
-        <iframe src="https://cache.gametracker.com/components/html0/?host=79.127.234.150:27015&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=1&currentPlayersHeight=100&showCurrPlayers=1&topPlayersHeight=100&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="536"></iframe>
-      </section>
-    </main>
-
     <footer class="site-footer">
       <p>P.G.Topia · Team Fortress 2 Community Server</p>
       <p>© <span id="year"></span> P.G.Topia</p>
