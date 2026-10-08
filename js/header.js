@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <a href="index.html">Home</a>
         <a href="rules.html">Rules</a>
         <a href="mapcycle.txt">Map List</a>
-        <!--<a href="reverts.html">Weapon Reverts List</a>-->
+        <a href="reverts.txt">Weapon Reverts List</a>
         <a href="https://steamcommunity.com/groups/pgtopia">Steam Group</a>
         <a href="https://www.youtube.com/@ConfederateChud">YouTube</a>
       </div>

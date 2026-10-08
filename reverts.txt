@@ -1,0 +1,144 @@
+Default Weapon reverts currently enabled on this server:
+  All Lunchbox Items - Reverted to pre-February 14, 2012; can heal yourself by picking up your own thrown lunchboxes
+  All Flamethrowers - Reverted to pre-bluemoon, full damage with no density ramp up (around +30% more flame DPS)
+  All Dropped Mediguns - Dropped Medigun's stored charge does not decay over time
+  All Miniguns - Reverted to pre-love&war, full damage and accuracy immediately on spinning up
+  All Sniper Quickscopes - Reverted to pre-February 14, 2008; can instantly headshot after zooming in (0.2 sec headshot prevention delay when zooming removed)
+  All Sentry Guns - Reverted to pre-toughbreak, sentry is active immediately after being unsapped
+  All Sniper Rifles - Reverted to pre-August 27, 2014, can jump immediately after firing a scoped shot (scope jumping)
+  All Stickybomb Launchers - Reverted to pre-love&war, +9% base blast radius, air-detonated stickies have full blast radius, can detonate while taunting (requires bind mouse2 "+attack2; sm_detonatestickies")
+  All Swords - Reverted to pre-toughbreak, no deploy or holster penalties
+
+  Special Delivery (set) - Restored release item set bonus, +25 max health. Equip the Shortstop, Mad Milk and any stock melee/reskin to gain the bonus, the hat is not required
+  Tank Buster - Restored release item set bonus, +20% sentry damage resist on wearer. Equip the Black Box and Battalion's Backup to gain the bonus, the hat is not required
+  Gas Jockey's Gear - Restored release item set bonus, +10% movespeed and bullet vuln. Equip the Degreaser and Powerjack to gain the bonus, the hat is not required
+  Expert's Ordnance - Restored release item set bonus, +10% fire resist. Equip the Loch-n-Load and Ullapool Caber to gain the bonus, the hat is not required
+  Hibernating Bear - Restored release item set bonus, +5% crit resist. Equip the Brass Beast, Buffalo Steak Sandvich and Warrior's Spirit to gain the bonus, the hat is not required
+  Croc-o-Style Kit - Restored release item set bonus, no death from headshots when above 1 HP. Equip the Sydney Sleeper, DDS and Bushwacka to gain the bonus, the hat is not required
+  Medieval Medic - Restored release item set bonus, +1 health regenerated per second on wearer. Equip the Crusader's Crossbow and Amputator to gain the bonus, the hat is not required
+  Saharan Spy - Restored release item set bonus, quiet decloak, 0.5s longer cloak blink time. Equip the L'Etranger and YER (or Wanga Prick) to gain the bonus, the hat is not required
+  Demopan - Restored April Fools' 2011 item set bonus, +1000% chance of trading your Stout Shako for 2 refined. Equip the Chargin' Targe and Frying Pan to gain the bonus, cosmetics not required
+
+  A
+  Air Strike - Reverted to pre-toughbreak, no extra blast radius penalty when blast jumping
+  Ambassador - Reverted to pre-inferno, deals full headshot damage (102) at all ranges
+  Amputator - Partially reverted to pre-toughbreak, regenerates +3 HP/s flat when active regardless if user recently took damage
+  Atomizer - Reverted to pre-inferno, can always triple jump, taking 10 damage each time
+  Axtinguisher - Reverted to pre-love&war, always deals 195 damage crits to burning targets, no crits vs non-burning targets, no speedboost on kill
+
+  B
+  B.A.S.E. Jumper - Reverted to pre-toughbreak, can redeploy, more air speed, while deployed float mid-air when on fire
+  Baby Face's Blaster - Reverted to pre-gunmettle, no boost loss on damage, only -25% boost loss on air jumps
+  Backburner - Reverted to Hatless update, +10% damage bonus
+  Beggar's Bazooka - Reverted to pre-2013, no radius penalty, misfires don't remove ammo clip, cannot gain ammo from dispensers at all
+  Black Box - Reverted to pre-gunmettle, flat +15 per hit at any range, uncapped
+  Blutsauger - Reverted to release, no passive health regen penalty, no random crits, can heal off disguised spies
+  Bonk! Atomic Punch - Reverted to pre-inferno, no longer slows after the effect wears off
+  Booties & Bootlegger - Reverted to pre-matchmaking, shield not required for speed bonus
+  Brass Beast - Reverted to pre-matchmaking, 20% damage resistance when spun up regardless of health
+  Buffalo Steak Sandvich - Reverted to release, +35% faster move speed on use, damage taken minicrits, no speed cap (stacks with GRU), no cooldown at full health, heal yourself by throwing the Steak
+  Bushwacka - Reverted to pre-love&war, +20% fire vuln at all times, random crits enabled
+  
+  C
+  Chargin' Targe - Reverted to pre-toughbreak, 40% blast resistance, afterburn immunity, crit after bash, no debuff removal, bash damage at end of charge
+  Claidheamh Mòr - Reverted to pre-toughbreak, -15 max health, no damage vuln, longer charge is passive
+  Classic - Partially reverted to the Team Fortress Classic version, full charge not required for headshots, 75 max ammo, cannot fire while moving; must stand still to fire and charge
+  Cleaner's Carbine - Reverted to release, crits for 3 seconds on kill, 35% slower fire rate (from 25%)
+  Cozy Camper - Reverted to pre-matchmaking, flinch resist at any charge level
+  Cow Mangler 5000 - Reverted to release, 5 shots, cannot be crit-boosted, uses old damage formula, +150% max dmg rampup, higher charge shot dmg
+  Crit-a-Cola - Reverted to pre-matchmaking, +25% movespeed, +10% damage taken, no mark-for-death on attack
+  Crusader's Crossbow - Reverted to pre-inferno, full uber gain on heal regardless if target recently took damage
+  
+  D
+  Dalokohs Bar - Reverted to pre-inferno, can overheal to 400 HP again
+  Dead Ringer - Reverted to pre-inferno, can refill cloak via ammo while uncloaked
+  Degreaser - Reverted to pre-toughbreak, 65% faster weapon switch, -10% damage, -25% afterburn damage, no airblast cost penalty
+  Direct Hit - Reverted to pre-December 22, 2009; mini-crits all airborne and floating underwater targets regardless of cause; explosive jumps not needed for mini-crits
+  Disciplinary Action - Reverted to pre-matchmaking, give allies 3 seconds of speed buff on hit
+  Dragon's Fury - Reverted to pre-bluemoon, increased hitbox size and no center-hit requirement for bonus damage
+ 
+  E
+  Enforcer - Reverted to release, +20% damage bonus overall, random crits, no piercing, +0.5s cloak time increase penalty
+  Equalizer & Escape Plan - Merged back to release; while active: blocks Medic healing, can't call for Medics, no mark-for-death, 162 damage at 1 HP, 256 taunt self-damage
+  Eviction Notice - Reverted to pre-toughbreak, +50% faster firing speed, no health drain or move speed bonus
+ 
+  F
+  Fists of Steel - Reverted to release, no healing or switching penalties, -60% ranged damage while active (from -40%)
+  Flying Guillotine - Reverted to pre-inferno, crit vs stunned players, long-range hits mini-crit instead of reducing recharge time
+ 
+  G
+  Gloves of Running Urgently - Reverted to pre-toughbreak, no health drain or holster penalty, marks for death, -25% damage
+  Gunboats - Reverted to release, -75% blast damage from rocket jumps, damage reduction also applies to kamikaze taunt self-damage
+
+  H
+  Half-Zatoichi - Reverted to pre-toughbreak, fast switch, less range, cannot switch until kill, full heal, has random crits
+  Huntsman - Restored taunt bug to pre-December 20, 2013; repeatedly and rapidly press taunt attack with an enemy Huntsman Sniper to stun each other forever as humanly as possible
+  Huo-Long Heater - Reverted to release, 15 fire pulse dmg (from 12), no dmg penalty, no dmg bonus against burning players, -6 ammo/sec while spun up, firing does not consume additional ammo
+  
+  I
+  Iron Bomber - Reverted to pre-July 7, 2022; ~2x larger grenade hitbox
+  
+  J
+  Jag - Reverted to pre-toughbreak, no damage penalty against buildings (destroy Sappers in 2 hits)
+  
+  L
+  Liberty Launcher - Reverted to release, +40% projectile speed, -25% clip size
+  Loch-n-Load - Reverted to pre-gunmettle, +20% damage against everything
+  Loose Cannon - Reverted to pre-toughbreak, +50% projectile speed, constant 60 base damage impacts, increased knockback, no stun
+  
+  M
+  Mad Milk - Reverted to release, players heal 75% of the damage done to an enemy covered with milk, extinguishing teammates does not reduce cooldown
+  Market Gardener - Reverted to pre-toughbreak, no attack speed penalty
+  
+  N
+  Natascha - Reverted to pre-gunmettle, reduced slowdown distance falloff, 300 max ammo, no damage resistance when spun up
+  
+  P
+  Panic Attack - Reverted to pre-inferno, hold fire to load, let go to release, fire faster with bigger spread on lower health
+  Persian Persuader - Reverted to pre-Manniversary, picks up ammo as health (including metal from dropped ammo, 120 HP per drop), +100% charge recharge rate, no max ammo penalties
+  Phlogistinator - Reverted to release, activating MMMPH refills health with 90% damage resist while taunting, MMMPH requires 225 fire damage, crit buff lasts 13 seconds
+  Pomson 6000 - Partially reverted to pre-GM, increased hitbox size, passes through team, no charge drain fall-off, pierces bullet resists, ignites friendly Huntsman arrows
+  Powerjack - Reverted to pre-gunmettle, +75 health restored on kill (can overheal)
+  
+  Q
+  Quick-Fix - Reverted to pre-toughbreak, +25% uber build rate, can capture objectives when ubered
+  
+  R
+  Razorback - Reverted to pre-inferno, can be overhealed, shield does not regenerate
+  Red-Tape Recorder - Reverted to release, faster downgrade speed on upgraded enemy buildings (1.6 s)
+  Rescue Ranger - Reverted to pre-toughbreak, heals +75 flat for no metal cost
+  Reserve Shooter - Reverted to pre-toughbreak, minicrits all airborne targets for 5 sec after deploying, 15% faster weapon switch
+  Righteous Bison - Partially reverted to pre-matchmaking, increased hitbox size (can hit same target many times), pierces bullet resists, ignites friendly Huntsman arrows
+  Rocket Jumper - Reverted to release, immune to all self blast damage including from Equalizer/Escape Plan taunt, wearer can pick up intel, random crits, old visuals & sounds
+  
+  S
+  Sandman - Reverted to pre-April 28, 2010; stuns players on hit, stun victims' speed is capped at 225 Hu/s, 15 sec ball recharge time
+  Sandvich - Reverted to pre-February 14, 2012; can heal yourself by picking up your own thrown Sandviches
+  Scorch Shot - Reverted to pre-July 6, 2015 patch; no -35% self damage force penalty (higher blast jumping)
+  Shortstop - Reverted to pre-Manniversary, fast reload, no push force penalty, shares pistol ammo; modern shove is kept
+  Soda Popper - Reverted to pre-matchmaking, builds hype as you run
+  Solemn Vow - Reverted to pre-gunmettle, firing speed penalty removed
+  Splendid Screen - Reverted to release, 25% fire resist, no faster recharge, crit after bash, no debuff removal, full 85 base bash damage at any range
+  Spy-cicle - Reverted to release, fire immunity for 2s, silent killer, cannot regenerate from ammo sources, uses the Fencing taunt attack, does not melt during taunting while active
+  Sticky Jumper - Reverted to Manniversary update, can have 8 stickybombs out at once, wearer can pick up intel, old explosion visuals & sounds
+  Sun-on-a-Stick - Reverted to pre-Hatless Update, minicrits vs burning players, -15% dmg penalty, no fire dmg resist while deployed
+  Sydney Sleeper - Reverted to release, apply jarate for 8 secs when above 50% charge to target (even if target is invuln), penetrate targets at full charge, random crits, no headshot bonuses, no charge rate increase
+  
+  T
+  Thermal Thruster - Reverted to pre-May 1, 2025; all bunnyhops when using a charge keeps stomp passives
+  Tide Turner - Reverted to pre-Smissmas 2014, can deal full crits, 25% blast and fire resist, crit after bash, no debuff removal, bash damage at end of charge, 100% charge on charge kill, no charge loss on hit
+  Tomislav - Reverted the firing sounds to pre-love&war, higher pitched weapon sounds
+  Tribalman's Shiv - Reverted to release, 8 second bleed, 35% damage penalty
+  
+  U
+  Ullapool Caber - Reverted to pre-gunmettle, always deals 175+ damage on melee explosion, no deploy or swing rate penalties, 35 melee damage
+  
+  V
+  Vita-Saw - Reverted to pre-inferno, always preserves up to 20% uber on death
+  
+  W
+  Warrior's Spirit - Reverted to pre-toughbreak, heals 10 on hit, no damage vuln, -20 max health
+  Wrangler - Reverted to release, fully repair and refill while shielded, increased long-range accuracy, sentry bullet damage isn't affected by distance
+  
+  Y
+  Your Eternal Reward - Reverted to pre-inferno, cannot disguise, no cloak drain penalty
