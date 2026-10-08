@@ -66,20 +66,20 @@ body {
   margin: 0;
   min-width: 320px;
   color: var(--text);
-  background:
-    linear-gradient(to bottom,
+  background: #342b26;
+    /* linear-gradient(to bottom,
       var(--page-top) 0,
       #5c5149 10%,
       #938982 22%,
       var(--page-mid) 42%,
       #bcb3ac 62%,
-      var(--page-bottom) 100%);
+      var(--page-bottom) 100%); */
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
   line-height: 1.28;
 }
 
-body::before {
+/* body::before {
   content: "";
   position: fixed;
   inset: 0;
@@ -88,7 +88,7 @@ body::before {
     radial-gradient(ellipse at 50% 0, rgba(255,255,255,.08), transparent 45%),
     repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0 1px, transparent 1px 4px);
   opacity: .65;
-}
+} */
 
 a { color: inherit; }
 button, a { -webkit-tap-highlight-color: transparent; }

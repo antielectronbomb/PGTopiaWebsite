@@ -1,3 +1,11 @@
+// HALLOWEEN MAPS
+cp_manor_event
+koth_harvest_event
+koth_lakeside_event
+plr_hightower_event
+sd_doomsday_event
+
+// VANILLA & FASTDL MAPS
 cp_5gorge
 cp_altitude
 cp_badlands
@@ -67,19 +75,29 @@ pl_thundermountain
 pl_upward
 tc_hydro
 wacky_races_v2
+
+// WORKSHOP MAPS
 workshop/cp_balloon_race_v11.ugc3321998709
 workshop/cp_caribbean_b4.ugc2868099268
 workshop/cp_crackhouse_v2.ugc3570603940
+workshop/cp_degrootkeep_your_guns.ugc2433577332
 workshop/cp_helmsdeep_v2.ugc666366518
+workshop/cp_kyuko_b2b.ugc3726377415
+workshop/cp_universe.ugc3366974548
 workshop/cp_wafflehouse_g_a2.ugc2873957684
+workshop/ctf_facing_worlds.ugc2947994706
+// workshop/ctf_free2fort.ugc1090010928
 workshop/ctf_vikings_final.ugc454919847
 workshop/garbage_day.ugc2718239516
+workshop/koth_americana_rc1a.ugc2864231357
+workshop/koth_depot_final1.ugc2812400076
+workshop/koth_lowas_b3.ugc721145233
 workshop/koth_other_wall.ugc3011820766
+workshop/koth_shipment_v3.ugc3777265299
+workshop/mario_kart_2_v30.ugc2087827297
+workshop/pl_calamity_final1a.ugc2837808768
 workshop/pl_longboy_b12.ugc3003418517
 workshop/pl_pit.ugc2845236851
-workshop/koth_depot_final1.ugc2812400076
-cp_manor_event
-koth_harvest_event
-koth_lakeside_event
-plr_hightower_event
-sd_doomsday_event
+workshop/plr_steelway.ugc3326577450
+workshop/slime_girl_island_b1.ugc3441372598
+
